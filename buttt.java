@@ -1,11 +1,10 @@
 
 /**
- *There are butts in this booty
- */
+ *There are butts in this booty 
 public class buttt
 {
     // instance variables - replace the example below with your own
-    private int x;
+    private in
 
     /**
      * Constructor for objects of class buttt
