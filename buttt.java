@@ -1,9 +1,6 @@
 
 /**
- * Write a description of class buttt here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ *There are butts in this booty
  */
 public class buttt
 {
